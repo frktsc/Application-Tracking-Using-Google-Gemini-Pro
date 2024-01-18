@@ -21,4 +21,6 @@ Below are some screenshots from the working parts of the project:
 ![Proje Ekran Görüntüsü](https://github.com/frktsc/Application-Tracking-Using-Google-Gemini-Pro-Vision/blob/main/Screenshot%202024-01-17%20135401.png?raw=true)
 ![Proje Ekran Görüntüsü](https://github.com/frktsc/Application-Tracking-Using-Google-Gemini-Pro-Vision/blob/main/Screenshot%202024-01-17%20135528.png?raw=true)
 ![Proje Ekran Görüntüsü](https://github.com/frktsc/Application-Tracking-Using-Google-Gemini-Pro-Vision/blob/main/Screenshot%202024-01-17%20135603.png?raw=true)
+![Proje Ekran Görüntüsü](https://github.com/frktsc/Application-Tracking-Using-Google-Gemini-Pro-Vision/blob/main/Screenshot%202024-01-18%20110606.png?raw=true)
+![Proje Ekran Görüntüsü](https://github.com/frktsc/Application-Tracking-Using-Google-Gemini-Pro-Vision/blob/main/Screenshot%202024-01-18%20110731.png?raw=true)
 
