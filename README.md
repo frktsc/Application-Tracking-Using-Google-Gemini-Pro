@@ -17,7 +17,6 @@ This project leverages Google Gemini Pro Vision and Streamlit to compare job des
 ## Project Demo
 Below are some screenshots from the working parts of the project:
 
-https://resume-traciking-app.streamlit.app/
 
 
 ![Proje Ekran Görüntüsü](https://github.com/frktsc/Application-Tracking-Using-Google-Gemini-Pro-Vision/blob/main/Screenshot%202024-01-17%20135401.png?raw=true)
